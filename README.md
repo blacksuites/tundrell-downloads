@@ -7,7 +7,7 @@ This repository contains downloadable app packages and release notes. Applicatio
 ## Apps
 
 - **PassOff**: an offline vault for passwords, private notes, and recovery codes. Windows installer and portable ZIP; Android **test build** signed with a development key. The Android test build is debuggable and intended for testing, not for storing sensitive passwords. Production-signed Android builds are not included.
-- **Phoenix PDF**: an offline PDF viewer and editor for Android and Windows.
+- **Phoenix PDF**: an offline PDF viewer and editor for Android and Windows. Its Android preview APK is signed with a development key; a production-signed Android build is not included.
 
 Each release includes a SHA256SUMS.txt file for verifying the downloaded packages. Windows installers may be unsigned; check the publisher and release checksum before installing.
 
